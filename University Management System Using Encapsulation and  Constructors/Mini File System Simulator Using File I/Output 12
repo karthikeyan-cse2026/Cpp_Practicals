@@ -1,0 +1,26 @@
+MINI FILE SYSTEM SIMULATOR
+1. Add File
+2. Display Files
+3. Exit
+Enter your choice: 1
+Enter File Name: document.txt
+Enter File Size (KB): 250
+File record added successfully.
+
+MINI FILE SYSTEM SIMULATOR
+1. Add File
+2. Display Files
+3. Exit
+Enter your choice: 2
+
+--- File System Records ---
+File Name : document.txt
+File Size : 250 KB
+--------------------------
+
+MINI FILE SYSTEM SIMULATOR
+1. Add File
+2. Display Files
+3. Exit
+Enter your choice: 3
+Exiting File System Simulator...
